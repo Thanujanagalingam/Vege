@@ -1,0 +1,25 @@
+p{
+    border: 3px dotted red;
+    font-size: 34px;
+   ;
+}
+em{
+    border: 3px solid green;
+    background-color: cyan;
+}
+ #a{
+    dotted border-style: dotted;
+ }
+ #b{
+    dashed border-style: dashed;
+ }
+ #c{
+    double border-style: double;
+ }
+    #d {
+        groove border-style: groove;
+    }
+    #f{
+        ridge border-style: ridge;
+    }
+   

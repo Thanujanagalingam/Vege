@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Dongle');
+#photo{
+    height: 600px;
+    margin: 15px;
+    float: left;
+    width: 200px;
+    background-color: rgb(148, 122, 127);
+}
+#myName, #jobTitle{
+    color: whitesmoke;
+}
+
+#intro{
+    float:left;
+    text-align: justify;
+    width: 1000px;
+    margin: 5px;
+    margin-top: 17px;
+}
+#aboutHead{
+    color: rgb(78, 14, 14);
+    background-color:rgb(211, 191, 168);
+    width: 150px;
+
+}
+body{
+    background-color: rgb(240, 205, 228);
+    font-family:"Roboto";
+}
+nav a{
+    text-decoration: none;
+    margin-right:8px;
+    color: black;
+    border-bottom: 2px dotted black;
+}
+    
+nav a:hover{
+    background-color: beige;
+    
+}
+#nav{
+    float: right;
+    margin-right:120px;
+}
